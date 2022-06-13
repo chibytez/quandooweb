@@ -1,0 +1,9 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+        "validUsername": "tomsmith",
+        "validPassword": "SuperSecretPassword!",
+        "invalidPassword": "wrongPassword",
+        "invalidUsername": "wrongUser"
+    }
+}
